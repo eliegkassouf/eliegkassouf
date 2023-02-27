@@ -2,9 +2,9 @@
 
 I enjoy designing and building software/solutions that allow anyone to run profitable and efficient businesses.
 
-I enjoy tuning and working on cars/motorcycles. When I'm not working on code or cars, I occasionally enjoy tracking my motorcycle and practicing the piano.
+I enjoy tuning and working on cars/motorcycles. 
 
-If you asked me what my favourite car is at the moment, it would have to be a 1989 Turbo LS Swapped Volvo 240 with 2 eBay turbo specials (the extra one is for when you blow it up 20 feet down the road - added trunk weight also helps). 
+When I'm not working on code or cars, I occasionally enjoy tracking my motorcycle and practicing the piano.
 
 ----------------------------
 ### I don't have social media, check back here for updates!
