@@ -11,7 +11,7 @@ When I'm not working on code or cars, I occasionally enjoy tracking my motorcycl
 ### Elie's Secure Chat App: https://elies-secure-chat.herokuapp.com/
 ### Elie's Angular Long Press Directive: https://github.com/eliegkassouf/angular-long-press-directive
 ### Elie's Passwordless Security Guide for Beginners: https://github.com/eliegkassouf/passwordless-security-guide-for-beginners
-
+### UpWork Profile: https://www.upwork.com/freelancers/~0150648d7fb078b01d
 ----------------------------
 
 ### 🙋‍♂️ Hi, my name is Elie Kassouf.
