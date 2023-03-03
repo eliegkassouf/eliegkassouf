@@ -25,6 +25,8 @@ I leaped into the unknown, becoming the CTO at JobSite360. The workload was trem
 - Vast experience facilitating cutting-edge engineering solutions with a wide range of complex application and technology skills.
 - Proven ability to leverage full-stack knowledge and experience building interactive user-centred website designs and native mobile applications to scale.
 - Extensive expertise in significant system architecture development, administration, and network design and configuration.
+- Extensive Expertise in Fintech (Plaid, Stripe..)
+- Expertise in AI
 
 
 To live in the past is to die in the future.
