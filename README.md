@@ -9,7 +9,8 @@ When I'm not working on code or cars, I occasionally enjoy tracking my motorcycl
 ----------------------------
 ### I don't have social media, check back here for updates!
 ### JobSite360 Marketing Site: https://www.jobsite360.com
-### Jobsite360 App: https://www.jobsite360.app
+### JobSite360 App (mobile, tablet, desktop & car + offline support): https://www.jobsite360.app
+### JobSite360 iOS & Android Apps (native app with offline support): Coming Soon! ~ 1-2 Weeks (Enterprise Ready)
 ### Elie's Secure Chat App: https://elies-secure-chat.herokuapp.com/
 ### Elie's Angular Long Press Directive: https://github.com/eliegkassouf/angular-long-press-directive
 ### Elie's Passwordless Security Guide for Beginners: https://github.com/eliegkassouf/passwordless-security-guide-for-beginners
