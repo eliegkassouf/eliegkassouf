@@ -8,10 +8,10 @@ When I'm not working on code or cars, I occasionally enjoy tracking my motorcycl
 
 ----------------------------
 ### I don't have social media, check back here for updates!
-### JobSite360 Marketing Site: https://www.jobsite360.com
-### JobSite360 App (mobile, tablet, desktop & car + offline support): https://www.jobsite360.app
-### JobSite360 iOS & Android Apps (native app with offline support): Coming Soon! ~ 1-2 Weeks (Enterprise Ready)
-### JobSite360 Windows & MacOS Apps (native apps with offline support): Coming Soon! ~ 1-2 Weeks (Enterprise Ready)
+### ExpensePilot Marketing Site: https://www.expensepilot.ca
+### ExpensePilot App (mobile, tablet, desktop & car + offline support): https://www.expensepilot.app
+### ExpensePilot iOS & Android Apps (native app with offline support): Coming Soon! ~ 1-2 Weeks (Enterprise Ready)
+### ExpensePilot Windows & MacOS Apps (native apps with offline support): Coming Soon! ~ 1-2 Weeks (Enterprise Ready)
 ### Elie's Secure Chat App: https://elies-secure-chat.herokuapp.com/
 ### Elie's Angular Long Press Directive: https://github.com/eliegkassouf/angular-long-press-directive
 ### Elie's Passwordless Security Guide for Beginners: https://github.com/eliegkassouf/passwordless-security-guide-for-beginners
@@ -22,7 +22,7 @@ When I'm not working on code or cars, I occasionally enjoy tracking my motorcycl
 
 I'm a team player and work well alone (not as fun). 
 
-I leaped into the unknown, becoming the CTO at JobSite360. The workload was tremendous and seemed impossible for a minute. Through hard work and dedication, I see progressive and positive results with each day that passes. 
+I leaped into the unknown, becoming the Founder/CEO at ExpensePilot. The workload was tremendous and seemed impossible for a minute. Through hard work and dedication, I see progressive and positive results with each day that passes. 
 
 - Work smart and hard. Nothing comes easy! 📚
 - I'm trilingual (English, French, and Arabic).
