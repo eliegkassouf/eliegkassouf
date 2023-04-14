@@ -1,10 +1,6 @@
 ### 👋 Hey! Welcome to my GitHub Page.
 
-I enjoy designing and building software/solutions that allow anyone to run profitable and efficient businesses.
-
-I enjoy tuning and working on cars/motorcycles. 
-
-When I'm not working on code or cars, I occasionally enjoy tracking my motorcycle and practicing the piano.
+Innovative Full Stack Dev & CEO, specializing in scalable solutions, app development, AI integration, and cloud services. Turning visions into reality.
 
 ----------------------------
 ### I don't have social media, check back here for updates!
@@ -20,17 +16,18 @@ When I'm not working on code or cars, I occasionally enjoy tracking my motorcycl
 
 ### 🙋‍♂️ Hi, my name is Elie Kassouf.
 
-I'm a team player and work well alone (not as fun). 
+About Me & My Last Role:
 
-I leaped into the unknown, becoming the Founder/CEO at ExpensePilot. The workload was tremendous and seemed impossible for a minute. Through hard work and dedication, I see progressive and positive results with each day that passes. 
+I spearheaded the complete redesign and development of JobSite360 Services, transforming the existing codebase to significantly improve performance and functionality. The initial system, provided by then-CEO Peter Douglas, was an amalgamation of code from three separate companies, resulting in frequent crashes and synchronization issues with the mobile app.
 
-- Work smart and hard. Nothing comes easy! 📚
-- I'm trilingual (English, French, and Arabic).
-- Vast experience facilitating cutting-edge engineering solutions with a wide range of complex application and technology skills.
-- Proven ability to leverage full-stack knowledge and experience building interactive user-centred website designs and native mobile applications to scale.
-- Extensive expertise in significant system architecture development, administration, and network design and configuration.
-- Extensive Expertise in Fintech (Plaid, Stripe..)
-- Expertise in AI
+Within six months, I successfully rebuilt the entire suite of services from scratch, with continuous improvements and iterations over the following months. I utilized Java Play and Scala for the prototype but later opted for a modularized architecture, retaining the high-performing Java Play backend while replacing Scala components with an Angular 8 frontend. Over the years, I upgraded the application from Angular 8 to Angular 15, leveraging two-way binding for optimal performance.
 
+Throughout the development process, I authored numerous libraries, components, directives, services, and interfaces, primarily using TypeScript due to its strong typing and ability to minimize debugging and technical debt. To further enhance the application, I implemented a socket server using Node.JS, Express, and Socket.IO for real-time chat functionality and reduced load on certain features. Additionally, I developed reporting services and reports with PHP, taking advantage of its lightweight nature and PDF generation capabilities.
 
-To live in the past is to die in the future.
+By segregating services, I achieved a remarkable 90% reduction in operating costs. My extensive experience with libraries such as Syncfusion, Angular Material, Google Maps, and countless others has been honed over seven years of working with Angular.
+
+I have managed various services on local Linux, Mac, and Windows servers for prototyping and simulating production-like environments. My expertise extends to Google Cloud, Google Admin, AWS (EC2, RDS, S3), and Heroku (scaling dynos, utilizing plugins like Heroku Postgres, Firewall services, Logging services, etc.).
+
+In addition, I possess experience in AI and Fintech, having integrated Plaid for banking support (covering up to 12,000 banks) and Stripe for invoicing. These integrations facilitated data import for OpenAI, which in turn accelerated features and offered valuable insights.
+
+My responsibilities also encompassed testing, documentation, hiring, and enforcing a "clean code" policy. I provided mentorship for team members and collaborated closely with clients to enhance the product. As the sole executive with an IT background, I assumed a critical leadership role in the absence of the CEO, guiding the team towards the successful delivery of a high-quality product.
