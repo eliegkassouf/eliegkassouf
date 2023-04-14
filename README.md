@@ -11,6 +11,8 @@ Innovative Full Stack Dev & CEO, specializing in scalable solutions, app develop
 ### Elie's Secure Chat App: https://elies-secure-chat.herokuapp.com/
 ### Elie's Angular Long Press Directive: https://github.com/eliegkassouf/angular-long-press-directive
 ### Elie's Passwordless Security Guide for Beginners: https://github.com/eliegkassouf/passwordless-security-guide-for-beginners
+----------------------------
+### LinkedIn Profile: https://www.linkedin.com/in/eliegkassouf/
 ### UpWork Profile: https://www.upwork.com/freelancers/~0150648d7fb078b01d
 ----------------------------
 
