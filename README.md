@@ -6,8 +6,8 @@ Innovative Full Stack Dev & CEO, specializing in scalable solutions, app develop
 ### I don't have social media, check back here for updates!
 ### ExpensePilot Marketing Site: https://www.expensepilot.ca
 ### ExpensePilot App (mobile, tablet, desktop & car + offline support): https://www.expensepilot.app
-### ExpensePilot iOS & Android Apps (native app with offline support): Coming Soon! ~ 1-2 Weeks (Enterprise Ready)
-### ExpensePilot Windows & MacOS Apps (native apps with offline support): Coming Soon! ~ 1-2 Weeks (Enterprise Ready)
+### ExpensePilot iOS & Android Apps (native app with offline support) (Enterprise Ready)
+### ExpensePilot Windows & MacOS Apps (native apps with offline support) (Enterprise Ready)
 ### Elie's Secure Chat App: https://elies-secure-chat.herokuapp.com/
 ### Elie's Angular Long Press Directive: https://github.com/eliegkassouf/angular-long-press-directive
 ### Elie's Passwordless Security Guide for Beginners: https://github.com/eliegkassouf/passwordless-security-guide-for-beginners
