@@ -4,24 +4,6 @@ Innovative Full Stack Dev & CEO, specializing in scalable solutions, app develop
 
 ----------------------------
 
-### ✳️ My Work:
-- ExpensePilot Marketing Site: https://www.expensepilot.ca
-- ExpensePilot App (mobile, tablet, desktop & car + offline support): https://www.expensepilot.app
-- ExpensePilot iOS & Android Apps (native app with offline support) (Enterprise Ready)
-- ExpensePilot Windows & MacOS Apps (native apps with offline support) (Enterprise Ready)
-- Elie's Secure Chat App: https://elies-secure-chat.herokuapp.com/
-- Elie's Angular Long Press Directive: https://github.com/eliegkassouf/angular-long-press-directive
-- Elie's Passwordless Security Guide for Beginners: https://github.com/eliegkassouf/passwordless-security-guide-for-beginners
-
-----------------------------
-
-### 📧 Contact Details:
-- Email: elie.kassouf@gmail.com
-- LinkedIn Profile: https://www.linkedin.com/in/eliegkassouf/
-- UpWork Profile: https://www.upwork.com/freelancers/~0150648d7fb078b01d
-
-----------------------------
-
 ### 🙋‍♂️ Hi, I'm Elie Kassouf.
 
 About Me & My Last Role:
@@ -42,6 +24,17 @@ My responsibilities also encompassed testing, documentation, hiring, and enforci
 
 ----------------------------
 
+### ✳️ My Work:
+- ExpensePilot Marketing Site: https://www.expensepilot.ca
+- ExpensePilot App (mobile, tablet, desktop & car + offline support): https://www.expensepilot.app
+- ExpensePilot iOS & Android Apps (native app with offline support) (Enterprise Ready)
+- ExpensePilot Windows & MacOS Apps (native apps with offline support) (Enterprise Ready)
+- Elie's Secure Chat App: https://elies-secure-chat.herokuapp.com/
+- Elie's Angular Long Press Directive: https://github.com/eliegkassouf/angular-long-press-directive
+- Elie's Passwordless Security Guide for Beginners: https://github.com/eliegkassouf/passwordless-security-guide-for-beginners
+
+----------------------------
+
 ### 📚 Experience:
 - <b>Designing/Creating Large Scalable Solutions</b> (SaaS (business to consumer) and (business to business) this includes enterprise).
 - <b>PHP 8+</b> | <b>JAVA 8+</b> | <b>C++</b> | <b>C#</b> | <b>Objecttive-C</b> | <b>Swift</b> | <b>TS</b> | <b>JS</b> | <b>Scala (JavaPlay)</b> | <b>XML</b> | <b>HTML5</b> | <b>CSS3</b> | <b>Python</b> | <b>Bash</b> | <b>AppleScript</b> | ...
@@ -55,13 +48,19 @@ My responsibilities also encompassed testing, documentation, hiring, and enforci
 - <b>Writing Documentation</b> -> It's not a true passion but where would we be without it right? Sometimes it's not fun but documentation is crucial for keeping tech debt low and employees/users informed.
 - <b>Prototyping</b> -> lots of people come to me with great ideas, I know how to use various languages/frameworks/services to quickly prototype a product and get it ready for market (I have done this so much, it feels like second nature). Sometimes the idea isn't ready for market but it's always good to understand and be prepared for what is required when it comes time for Production + Scaling.
 
+----------------------------
+
 ### 🕵️‍♂️ Experimenting With:
 <b>Rust</b> | <b>Perl</b> | <b>Go</b> | <b>Kotlin</b> | <b>Pascal</b>
+
+----------------------------
 
 ### 😎 Looking Forward To:
 - Google AI (Why not since I already have experience with AI).
 - Picking up other languages
 - Creating new automation tools to speed up dev/deployment and reduce costs.
+
+----------------------------
 
 ### 💬 Code/Collaboration/Other
 - All the code I write is proprietary and since I'm busy, I don't have a lot of time for "Personal Projects".
@@ -69,3 +68,12 @@ My responsibilities also encompassed testing, documentation, hiring, and enforci
 - I created the ExpensePilot Marketing Page in less than 3 hours. I am a self-motivated individual.
 - When I created ExpensePilot (JobSite360), it constituted various libraries, frameworks, backend services, databases, front-end and everything else in between.
 - I handled new hires, code reviews and worked closely with then-CEO Peter Douglas to deliver a high-quality product. 
+
+----------------------------
+
+### 📧 Contact Details:
+- Email: elie.kassouf@gmail.com
+- LinkedIn Profile: https://www.linkedin.com/in/eliegkassouf/
+- UpWork Profile: https://www.upwork.com/freelancers/~0150648d7fb078b01d
+
+----------------------------
