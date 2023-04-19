@@ -34,6 +34,8 @@ In addition, I possess experience in AI and Fintech, having integrated Plaid for
 
 My responsibilities also encompassed testing, documentation, hiring, and enforcing a "clean code" policy. I provided mentorship for team members and collaborated closely with clients to enhance the product. As the sole executive with an IT background, I assumed a critical leadership role in the absence of the CEO, guiding the team towards the successful delivery of a high-quality product.
 
+----------------------------
+
 ### Experience:
 - <b>PHP</b> | <b>JAVA</b> | <b>C++</b> | <b>C#</b> | <b>Objecttive-C</b> | <b>Swift</b> | <b>TS</b> | <b>JS</b> | <b>Scala</b> | <b>XML</b> | <b>HTML5</b> | <b>CSS3</b> | <b>Python</b> | <b>Bash</b> | ...
 - <b>Angular</b> (React, Vue..) | <b>PostgresSQL</b> | <b>MongoDb</b> | <b>MySQL</b> (and SqlLite) | <b>Google Big Data</b> | <b>Oracle DB</b> | <b>MS Sql Server</b> | ...
