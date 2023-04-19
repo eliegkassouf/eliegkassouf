@@ -3,17 +3,23 @@
 Innovative Full Stack Dev & CEO, specializing in scalable solutions, app development, AI integration, and cloud services. Turning visions into reality.
 
 ----------------------------
+
 ### I don't have social media, check back here for updates!
-### ExpensePilot Marketing Site: https://www.expensepilot.ca
-### ExpensePilot App (mobile, tablet, desktop & car + offline support): https://www.expensepilot.app
-### ExpensePilot iOS & Android Apps (native app with offline support) (Enterprise Ready)
-### ExpensePilot Windows & MacOS Apps (native apps with offline support) (Enterprise Ready)
-### Elie's Secure Chat App: https://elies-secure-chat.herokuapp.com/
-### Elie's Angular Long Press Directive: https://github.com/eliegkassouf/angular-long-press-directive
-### Elie's Passwordless Security Guide for Beginners: https://github.com/eliegkassouf/passwordless-security-guide-for-beginners
+- ExpensePilot Marketing Site: https://www.expensepilot.ca
+- ExpensePilot App (mobile, tablet, desktop & car + offline support): https://www.expensepilot.app
+- ExpensePilot iOS & Android Apps (native app with offline support) (Enterprise Ready)
+- ExpensePilot Windows & MacOS Apps (native apps with offline support) (Enterprise Ready)
+- Elie's Secure Chat App: https://elies-secure-chat.herokuapp.com/
+- Elie's Angular Long Press Directive: https://github.com/eliegkassouf/angular-long-press-directive
+- Elie's Passwordless Security Guide for Beginners: https://github.com/eliegkassouf/passwordless-security-guide-for-beginners
+
 ----------------------------
-### LinkedIn Profile: https://www.linkedin.com/in/eliegkassouf/
-### UpWork Profile: https://www.upwork.com/freelancers/~0150648d7fb078b01d
+
+### How to contact me:
+- Email: elie.kassouf@gmail.com
+- LinkedIn Profile: https://www.linkedin.com/in/eliegkassouf/
+- UpWork Profile: https://www.upwork.com/freelancers/~0150648d7fb078b01d
+
 ----------------------------
 
 ### 🙋‍♂️ Hi, my name is Elie Kassouf.
@@ -47,3 +53,10 @@ My responsibilities also encompassed testing, documentation, hiring, and enforci
 ### Looking Forward To:
 - Google AI (Why not since I already have experience with AI).
 - Picking up other languages
+
+### Code/Collaboration/Other
+- All the code I write is proprietary and since I'm busy, I don't have a lot of time for "Personal Projects".
+- If you would like to see something, I don't mind running a quick demo or writing new code (within reason).
+- I created the ExpensePilot Marketing Page in less than 3 hours. I am a self-motivated individual.
+- When I created ExpensePilot (JobSite360), it constituted various libraries, frameworks, backend services, databases, front-end and everything else in between.
+- I handled new hires, code reviews and worked closely with then-CEO Peter Douglas to deliver a high-quality product. 
