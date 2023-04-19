@@ -43,9 +43,16 @@ My responsibilities also encompassed testing, documentation, hiring, and enforci
 ----------------------------
 
 ### 📚 Experience:
-- <b>PHP</b> | <b>JAVA</b> | <b>C++</b> | <b>C#</b> | <b>Objecttive-C</b> | <b>Swift</b> | <b>TS</b> | <b>JS</b> | <b>Scala</b> | <b>XML</b> | <b>HTML5</b> | <b>CSS3</b> | <b>Python</b> | <b>Bash</b> | ...
-- <b>Angular</b> (React, Vue..) | <b>PostgresSQL</b> | <b>MongoDb</b> | <b>MySQL</b> (and SqlLite) | <b>Google Big Data</b> | <b>Oracle DB</b> | <b>MS Sql Server</b> | ...
+- <b>PHP 8+</b> | <b>JAVA 8+</b> | <b>C++</b> | <b>C#</b> | <b>Objecttive-C</b> | <b>Swift</b> | <b>TS</b> | <b>JS</b> | <b>Scala (JavaPlay)</b> | <b>XML</b> | <b>HTML5</b> | <b>CSS3</b> | <b>Python</b> | <b>Bash</b> | <b>AppleScript</b> | ...
+- <b>Angular</b> (React, Vue..) | <b>Laravel</b> | <b>PlayFramework (latest)</b> | <b>PostgresSQL</b> | <b>MongoDb</b> | <b>MySQL</b> (and SqlLite) | <b>Google Big Data</b> | <b>Oracle DB</b> | <b>MS Sql Server</b> | ...
 - <b>AWS</b> | <b>SalesForce</b> | <b>Heroku</b> | <b>Google Admin</b> | <b>Google Cloud Services</b> | <b>Fintech</b> (Stripe, Plaid, PayPal, Intuit (API), Sage (API)) | <b>OpenAI</b> (All Products) | ...
+- <b>Apple App Store</b> (App Deplyment & Rediness) | <b>Apple Dev</b> (Profiles, Certs, Services..) | <b>Google PlayStore</b>
+- <b>Security & Pen Testing</b> (Kali Linux)
+- <b>Mentoring (Students & Employees)</b> (includes code reviews).
+- <b>Setting up Servers & Environments (Dev/Testing/Prod)</b> (Windows, Linux (various distros + amazon), MacOS, Virtual Machines, Docker).
+- <b>Automation</b> -> <b>Perl</b> | <b> Bash</b> | <b>AppleScript</b>
+- <b>Writing Documentation</b> -> It's not a true passion but where would we be without it right? Sometimes it's not fun but documentation is crucial for keeping tech debt low and employees/users informed.
+- <b>Prototyping</b> -> lots of people come to me with great ideas, I know how to use various languages/frameworks/services to quickly prototype a product and get it ready for market (I have done this so much, it feels like second nature). Sometimes the idea isn't ready for market but it's always good to understand and be prepared for what is required when it comes time for Production + Scaling.
 
 ### 🕵️‍♂️ Experimenting With:
 <b>Rust</b> | <b>Perl</b> | <b>Go</b> | <b>Kotlin</b> | <b>Pascal</b>
@@ -53,6 +60,7 @@ My responsibilities also encompassed testing, documentation, hiring, and enforci
 ### 😎 Looking Forward To:
 - Google AI (Why not since I already have experience with AI).
 - Picking up other languages
+- Creating new automation tools to speed up dev/deployment and reduce costs.
 
 ### 💬 Code/Collaboration/Other
 - All the code I write is proprietary and since I'm busy, I don't have a lot of time for "Personal Projects".
