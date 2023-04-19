@@ -4,7 +4,7 @@ Innovative Full Stack Dev & CEO, specializing in scalable solutions, app develop
 
 ----------------------------
 
-### I don't have social media, check back here for updates!
+### ✳️ My Work:
 - ExpensePilot Marketing Site: https://www.expensepilot.ca
 - ExpensePilot App (mobile, tablet, desktop & car + offline support): https://www.expensepilot.app
 - ExpensePilot iOS & Android Apps (native app with offline support) (Enterprise Ready)
@@ -15,14 +15,14 @@ Innovative Full Stack Dev & CEO, specializing in scalable solutions, app develop
 
 ----------------------------
 
-### How to contact me:
+### 📧 Contact Details:
 - Email: elie.kassouf@gmail.com
 - LinkedIn Profile: https://www.linkedin.com/in/eliegkassouf/
 - UpWork Profile: https://www.upwork.com/freelancers/~0150648d7fb078b01d
 
 ----------------------------
 
-### 🙋‍♂️ Hi, my name is Elie Kassouf.
+### 🙋‍♂️ Hi, I'm Elie Kassouf.
 
 About Me & My Last Role:
 
@@ -42,19 +42,19 @@ My responsibilities also encompassed testing, documentation, hiring, and enforci
 
 ----------------------------
 
-### Experience:
+### 📚 Experience:
 - <b>PHP</b> | <b>JAVA</b> | <b>C++</b> | <b>C#</b> | <b>Objecttive-C</b> | <b>Swift</b> | <b>TS</b> | <b>JS</b> | <b>Scala</b> | <b>XML</b> | <b>HTML5</b> | <b>CSS3</b> | <b>Python</b> | <b>Bash</b> | ...
 - <b>Angular</b> (React, Vue..) | <b>PostgresSQL</b> | <b>MongoDb</b> | <b>MySQL</b> (and SqlLite) | <b>Google Big Data</b> | <b>Oracle DB</b> | <b>MS Sql Server</b> | ...
 - <b>AWS</b> | <b>SalesForce</b> | <b>Heroku</b> | <b>Google Admin</b> | <b>Google Cloud Services</b> | <b>Fintech</b> (Stripe, Plaid, PayPal, Intuit (API), Sage (API)) | <b>OpenAI</b> (All Products) | ...
 
-### Experimenting With:
+### 🕵️‍♂️ Experimenting With:
 <b>Rust</b> | <b>Perl</b> | <b>Go</b> | <b>Kotlin</b> | <b>Pascal</b>
 
-### Looking Forward To:
+### 😎 Looking Forward To:
 - Google AI (Why not since I already have experience with AI).
 - Picking up other languages
 
-### Code/Collaboration/Other
+### 💬 Code/Collaboration/Other
 - All the code I write is proprietary and since I'm busy, I don't have a lot of time for "Personal Projects".
 - If you would like to see something, I don't mind running a quick demo or writing new code (within reason).
 - I created the ExpensePilot Marketing Page in less than 3 hours. I am a self-motivated individual.
