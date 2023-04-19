@@ -42,7 +42,7 @@ My responsibilities also encompassed testing, documentation, hiring, and enforci
 - <b>AWS</b> | <b>SalesForce</b> | <b>Heroku</b> | <b>Google Admin</b> | <b>Google Cloud Services</b> | <b>Fintech</b> (Stripe, Plaid, PayPal, Intuit (API), Sage (API)) | <b>OpenAI</b> (All Products) | ...
 
 ### Experimenting With:
-<b>Rust</b> | <b>Perl</b> | <b>Pascal</b>
+<b>Rust</b> | <b>Perl</b> | <b>Go</b> | <b>Kotlin</b> | <b>Pascal</b>
 
 ### Looking Forward To:
 - Google AI (Why not since I already have experience with AI).
