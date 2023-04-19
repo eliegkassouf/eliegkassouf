@@ -33,3 +33,15 @@ I have managed various services on local Linux, Mac, and Windows servers for pro
 In addition, I possess experience in AI and Fintech, having integrated Plaid for banking support (covering up to 12,000 banks) and Stripe for invoicing. These integrations facilitated data import for OpenAI, which in turn accelerated features and offered valuable insights.
 
 My responsibilities also encompassed testing, documentation, hiring, and enforcing a "clean code" policy. I provided mentorship for team members and collaborated closely with clients to enhance the product. As the sole executive with an IT background, I assumed a critical leadership role in the absence of the CEO, guiding the team towards the successful delivery of a high-quality product.
+
+### Experience:
+- <b>PHP</b> | <b>JAVA</b> | <b>C++</b> | <b>C#</b> | <b>Objecttive-C</b> | <b>Swift</b> | <b>TS</b> | <b>JS</b> | <b>Scala</b> | <b>XML</b> | <b>HTML5</b> | <b>CSS3</b> | <b>Python</b> | <b>Bash</b> | ...
+- <b>Angular</b> (React, Vue..) | <b>PostgresSQL</b> | <b>MongoDb</b> | <b>MySQL</b> (and SqlLite) | <b>Google Big Data</b> | <b>Oracle DB</b> | <b>MS Sql Server</b> | ...
+- <b>AWS</b> | <b>SalesForce</b> | <b>Heroku</b> | <b>Google Admin</b> | <b>Google Cloud Services</b> | <b>Fintech</b> (Stripe, Plaid, PayPal, Intuit (API), Sage (API)) | <b>OpenAI</b> (All Products) | ...
+
+### Experimenting With:
+<b>Rust</b> | <b>Perl</b> | <b>Pascal</b>
+
+### Looking Forward To:
+- Google AI (Why not since I already have experience with AI).
+- Picking up other languages
