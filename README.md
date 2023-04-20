@@ -45,8 +45,8 @@ My responsibilities also encompassed testing, documentation, hiring, and enforci
 - <b>Mentoring (Students & Employees)</b> (includes code reviews).
 - <b>Setting up Servers & Environments (Dev/Testing/Prod)</b> (Windows, Linux (various distros + amazon), MacOS, Virtual Machines, Docker).
 - <b>Automation</b> -> <b>Perl</b> | <b> Bash</b> | <b>AppleScript</b>
-- <b>Writing Documentation</b> -> It's not a true passion but where would we be without it right? Sometimes it's not fun but documentation is crucial for keeping tech debt low and employees/users informed.
-- <b>Prototyping</b> -> lots of people come to me with great ideas, I know how to use various languages/frameworks/services to quickly prototype a product and get it ready for market (I have done this so much, it feels like second nature). Sometimes the idea isn't ready for market but it's always good to understand and be prepared for what is required when it comes time for Production + Scaling.
+- <b>Writing Documentation</b> -> Where would we be without it right? Sometimes it's not fun but documentation is required for keeping tech debt low and employees/users up to date.
+- <b>Prototyping</b> -> Numerous individuals approach me with innovative concepts, and my expertise in diverse languages, frameworks, and services enables me to rapidly develop prototypes and prepare them for market deployment. Having honed this skill, it has become almost instinctual. Although some ideas may not be market-ready, it is crucial to comprehend and anticipate the necessary preparations for successful production and scalability.
 
 ----------------------------
 
