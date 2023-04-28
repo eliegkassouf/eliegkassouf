@@ -50,10 +50,3 @@ Specializing in scalable solutions, app development, AI integration, and cloud s
 - I handled new hires, code reviews and worked closely with then-CEO Peter Douglas to deliver a high-quality product. 
 
 ----------------------------
-
-### 📧 Contact Details:
-- Email: elie.kassouf@gmail.com
-- LinkedIn Profile: https://www.linkedin.com/in/eliegkassouf/
-- UpWork Profile: https://www.upwork.com/freelancers/~0150648d7fb078b01d
-
-----------------------------
