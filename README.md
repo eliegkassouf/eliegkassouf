@@ -12,7 +12,6 @@ Specializing in scalable solutions, app development, AI integration, and cloud s
 - Elie's Secure Chat App: https://elies-secure-chat.herokuapp.com/
 - Elie's Angular Long Press Directive: https://github.com/eliegkassouf/angular-long-press-directive
 - Elie's Passwordless Security Guide for Beginners: https://github.com/eliegkassouf/passwordless-security-guide-for-beginners
-- Previous Work (Wiki): https://github.com/eliegkassouf/eliegkassouf/wiki
 ----------------------------
 
 ### 📚 Experience:
