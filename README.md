@@ -25,7 +25,6 @@ Specializing in scalable solutions, app development, AI integration, and cloud s
 - <b>Setting up Servers & Environments (Dev/Testing/Prod)</b> (Windows, Linux (various distros + amazon), MacOS, Virtual Machines, Docker).
 - <b>Automation</b> -> <b>Perl</b> | <b> Bash</b> | <b>AppleScript</b>
 - <b>Writing Documentation</b> -> Where would we be without it right? Sometimes it's not fun but documentation is required for keeping tech debt low and employees/users up to date.
-- <b>Prototyping</b> -> Numerous individuals approach me with innovative concepts, and my expertise in diverse languages, frameworks, and services enables me to rapidly develop prototypes and prepare them for market deployment. Having honed this skill, it has become almost instinctual. Although some ideas may not be market-ready, it is crucial to comprehend and anticipate the necessary preparations for successful production and scalability.
 
 ----------------------------
 
@@ -38,14 +37,5 @@ Specializing in scalable solutions, app development, AI integration, and cloud s
 - Google AI (Why not since I already have experience with AI).
 - Picking up other languages
 - Creating new automation tools to speed up dev/deployment and reduce costs.
-
-----------------------------
-
-### 💬 Code/Collaboration/Other
-- All the code I write is proprietary and since I'm busy, I don't have a lot of time for "Personal Projects".
-- If you would like to see something, I don't mind running a quick demo or writing new code (within reason).
-- I created the ExpensePilot Marketing Page in less than 3 hours. I am a self-motivated individual.
-- When I created ExpensePilot (JobSite360), it constituted various libraries, frameworks, backend services, databases, front-end and everything else in between.
-- I handled new hires, code reviews and worked closely with then-CEO Peter Douglas to deliver a high-quality product. 
 
 ----------------------------
