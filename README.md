@@ -9,6 +9,7 @@ Specializing in scalable solutions, app development, AI integration, and cloud s
 ----------------------------
 
 ### ✳️ My Work:
+- DevR (DevReady CLI): https://github.com/eliegkassouf/devr
 - Elie's Secure Chat App: https://elies-secure-chat.herokuapp.com/
 - Elie's Angular Long Press Directive: https://github.com/eliegkassouf/angular-long-press-directive
 - Elie's Passwordless Security Guide for Beginners: https://github.com/eliegkassouf/passwordless-security-guide-for-beginners
