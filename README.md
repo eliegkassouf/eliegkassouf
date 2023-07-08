@@ -1,42 +1,47 @@
-### 👋 Hey! Welcome to my GitHub Page.
+### 👋 Greetings! Welcome to My GitHub Page.
 
-Specializing in scalable solutions, app development, AI integration, and cloud services. Turning visions into reality.
+With a specialization in scalable solutions, application development, AI integration, and cloud services, I am committed to turning visionary concepts into tangible reality.
 
-----------------------------
+---
 
-### 🙋‍♂️ Hi, I'm Elie Kassouf.
+### 🙋‍♂️ A Warm Hello, I'm Elie Kassouf.
 
-----------------------------
+---
 
-### ✳️ My Work:
-- DevR (DevReady CLI): https://github.com/eliegkassouf/devr
-- Elie's Secure Chat App: https://elies-secure-chat.herokuapp.com/
-- Elie's Angular Long Press Directive: https://github.com/eliegkassouf/angular-long-press-directive
-- Elie's Passwordless Security Guide for Beginners: https://github.com/eliegkassouf/passwordless-security-guide-for-beginners
-----------------------------
+### ✳️ Highlights from My Portfolio:
 
-### 📚 Experience:
-- <b>Designing/Creating Large Scalable Solutions</b> (SaaS (business to consumer) and (business to business) this includes enterprise).
-- <b>PHP 4+</b> | <b>JAVA 6,7,8+</b> | <b>C++</b> | <b>C#</b> | <b>Objecttive-C</b> | <b>Swift</b> | <b>TS</b> | <b>JS</b> | <b>Scala (JavaPlay)</b> | <b>XML</b> | <b>HTML5</b> | <b>CSS3</b> | <b>Python</b> | <b>Bash</b> | <b>AppleScript</b> | ...
-- <b>Angular 5-15+</b> (React, Vue..) | <b>Laravel</b> | <b>PlayFramework (2.0 - latest)</b> | <b>PostgresSQL</b> | <b>MongoDb</b> | <b>MySQL</b> (and SqlLite) | <b>Google Big Data</b> | <b>Oracle DB</b> | <b>MS Sql Server</b> | ...
-- <b>AWS</b> | <b>SalesForce</b> | <b>Heroku</b> | <b>Google Admin</b> | <b>Google Cloud Services</b> | <b>Fintech</b> (Stripe, Plaid, PayPal, Intuit (API), Sage (API)) | <b>OpenAI</b> (All Products) | ...
-- <b>Apple App Store</b> (App Deplyment & Rediness) | <b>Apple Dev</b> (Profiles, Certs, Services..) | <b>Google PlayStore</b>
-- <b>Security & Pen Testing</b> (Kali Linux)
-- <b>Mentoring (Students & Employees)</b> (includes code reviews).
-- <b>Setting up Servers & Environments (Dev/Testing/Prod)</b> (Windows, Linux (various distros + amazon), MacOS, Virtual Machines, Docker).
-- <b>Automation</b> -> <b>Perl</b> | <b> Bash</b> | <b>AppleScript</b>
-- <b>Writing Documentation</b> -> Where would we be without it right? Sometimes it's not fun but documentation is required for keeping tech debt low and employees/users up to date.
+*   DevR (DevReady CLI): [https://github.com/eliegkassouf/devr](https://github.com/eliegkassouf/devr)
+*   Elie's Secure Chat App: [https://elies-secure-chat.herokuapp.com/](https://elies-secure-chat.herokuapp.com/)
+*   Elie's Angular Long Press Directive: [https://github.com/eliegkassouf/angular-long-press-directive](https://github.com/eliegkassouf/angular-long-press-directive)
+*   Elie's Passwordless Security Guide for Beginners: [https://github.com/eliegkassouf/passwordless-security-guide-for-beginners](https://github.com/eliegkassouf/passwordless-security-guide-for-beginners)
 
-----------------------------
+---
 
-### 🕵️‍♂️ Experimenting With:
-<b>Rust</b> | <b>Perl</b> | <b>Go</b> | <b>Kotlin</b> | <b>Pascal</b>
+### 📚 My Proficiencies:
 
-----------------------------
+*   **Designing and Developing Scalable Solutions**: Specializing in SaaS models for both B2C and B2B landscapes, including enterprise-grade solutions.
+*   **Programming Languages**: Mastery in PHP 4+, Java 6,7,8+, C++, C#, Objective-C, Swift, TypeScript, JavaScript, Scala, XML, HTML5, CSS3, Python, Bash, AppleScript, and more.
+*   **Frameworks and Databases**: Proficient in Angular 5-15+, Laravel, PlayFramework, PostgreSQL, MongoDB, MySQL, Google Big Data, Oracle DB, MS SQL Server, and others.
+*   **Cloud and Fintech Services**: Hands-on experience with AWS, Salesforce, Heroku, Google Admin, Google Cloud Services, and Fintech solutions like Stripe, Plaid, PayPal, Intuit API, Sage API, OpenAI products, etc.
+*   **App Store Navigation**: Proficient in deploying apps on the Apple App Store and Google PlayStore, along with understanding their readiness protocols.
+*   **Security & Penetration Testing**: Experience with Kali Linux for conducting penetration testing.
+*   **Mentoring**: Guidance of students and employees, including conducting code reviews.
+*   **Server and Environment Setups**: Proficient in setting up various Dev, Testing, and Production environments (Windows, Linux, MacOS, Virtual Machines, Docker).
+*   **Automation**: Expertise in Perl, Bash, AppleScript automation scripts.
+*   **Documentation**: A strong believer in the importance of thorough documentation for maintaining low technical debt and keeping stakeholders informed.
 
-### 😎 Looking Forward To:
-- Google AI (Why not since I already have experience with AI).
-- Picking up other languages
-- Creating new automation tools to speed up dev/deployment and reduce costs.
+---
 
-----------------------------
+### 🕵️‍♂️ Currently Exploring:
+
+Delving into Rust, Perl, Go, Kotlin, Pascal.
+
+---
+
+### 😎 Excited About:
+
+*   Diving deeper into Google AI, given my existing experience with AI.
+*   Learning and mastering more programming languages.
+*   Developing new automation tools to enhance development and deployment speeds, while reducing associated costs.
+
+---
