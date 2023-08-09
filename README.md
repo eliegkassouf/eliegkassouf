@@ -10,7 +10,6 @@ With a specialization in scalable solutions, application development, AI integra
 
 ### ✳️ Highlights from My Portfolio:
 
-*   DevR (DevReady CLI): [https://github.com/eliegkassouf/devr](https://github.com/eliegkassouf/devr)
 *   Elie's Secure Chat App: [https://elies-secure-chat.herokuapp.com/](https://elies-secure-chat.herokuapp.com/)
 *   Elie's Angular Long Press Directive: [https://github.com/eliegkassouf/angular-long-press-directive](https://github.com/eliegkassouf/angular-long-press-directive)
 *   Elie's Passwordless Security Guide for Beginners: [https://github.com/eliegkassouf/passwordless-security-guide-for-beginners](https://github.com/eliegkassouf/passwordless-security-guide-for-beginners)
