@@ -10,6 +10,7 @@ With a specialization in scalable solutions, application development, AI integra
 
 ### ✳️ Highlights from My Portfolio:
 
+*   Cosmo ✨ Development Toolkit: [https://www.cosmospark.app](https://www.cosmospark.app) | [Backup (Firewall)](https://cosmospark-746c2c374c5d.herokuapp.com)
 *   Elie's Secure Chat App: [https://elies-secure-chat.herokuapp.com/](https://elies-secure-chat.herokuapp.com/)
 *   Elie's Angular Long Press Directive: [https://github.com/eliegkassouf/angular-long-press-directive](https://github.com/eliegkassouf/angular-long-press-directive)
 *   Elie's Passwordless Security Guide for Beginners: [https://github.com/eliegkassouf/passwordless-security-guide-for-beginners](https://github.com/eliegkassouf/passwordless-security-guide-for-beginners)
@@ -18,6 +19,7 @@ With a specialization in scalable solutions, application development, AI integra
 
 ### 📚 My Proficiencies:
 
+*   _**Polyglot Engineer**_
 *   **Designing and Developing Scalable Solutions**: Specializing in SaaS models for both B2C and B2B landscapes, including enterprise-grade solutions.
 *   **Programming Languages**: Mastery in PHP 4+, Java 6,7,8+, C++, C#, Objective-C, Swift, TypeScript, JavaScript, Scala, XML, HTML5, CSS3, Python, Bash, AppleScript, and more.
 *   **Frameworks and Databases**: Proficient in Angular 5-15+, Laravel, PlayFramework, PostgreSQL, MongoDB, MySQL, Google Big Data, Oracle DB, MS SQL Server, and others.
