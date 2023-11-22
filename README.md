@@ -10,6 +10,7 @@ With a specialization in scalable solutions, application development, AI integra
 
 ### ✳️ Highlights from My Portfolio:
 
+*   Elie's Portfolio: [https://www.eliekassouf.ca]
 *   Cosmo ✨ Development Toolkit: [https://www.cosmospark.app](https://www.cosmospark.app) | [Backup (Firewall)](https://cosmospark-746c2c374c5d.herokuapp.com)
 *   Elie's Secure Chat App: [https://elies-secure-chat.herokuapp.com/](https://elies-secure-chat.herokuapp.com/)
 *   Elie's Angular Long Press Directive: [https://github.com/eliegkassouf/angular-long-press-directive](https://github.com/eliegkassouf/angular-long-press-directive)
