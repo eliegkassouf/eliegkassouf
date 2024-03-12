@@ -11,6 +11,7 @@ With a specialization in scalable solutions, application development, AI integra
 ### ✳️ Highlights from My Portfolio:
 
 *   Elie's Portfolio: [https://www.eliekassouf.ca]
+*   Nutrition Generative AI (Angular v17+) [https://nutrition-generative-ai-cc2d74837d2a.herokuapp.com/](https://nutrition-generative-ai-cc2d74837d2a.herokuapp.com/)
 *   Nestlé Foodlovers (Angular v17+) [https://nestle-foodlovers-ch-release-7f8eecc42618.herokuapp.com/](https://nestle-foodlovers-ch-release-7f8eecc42618.herokuapp.com/)
 *   Cosmo ✨ Development Toolkit: [https://www.cosmospark.app](https://www.cosmospark.app) | [Backup (Firewall)](https://cosmospark-746c2c374c5d.herokuapp.com)
 *   Elie's Secure Chat App: [https://elies-secure-chat.herokuapp.com/](https://elies-secure-chat.herokuapp.com/)
