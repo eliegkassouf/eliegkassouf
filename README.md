@@ -6,13 +6,17 @@ With a specialization in scalable solutions, application development, AI integra
 
 ### 🙋‍♂️ A Warm Hello, I'm Elie Kassouf.
 
+*   Seasoned Software Architect & Polyglot Engineer
+*   Entrepreneurial Spirit with 14+ Years in Tech
+*   Successfully Exited Founder
+
 ---
 
 ### 👨‍💻 What I'm working on:
 
-- Artificial Intelligence (From Several Providers & Creating My Own)
-- Private Tools & Automations (Creating My Own Solutions Like Home Automation)
-- Scalable Enterprise Solutions (Everything From Construction To Healthcare & Everything In Between)
+*   Artificial Intelligence (From Several Providers & Creating My Own)
+*   Private Tools & Automations (Creating My Own Solutions Like Home Automation)
+*   Scalable Enterprise Solutions (Everything From Construction To Healthcare & Everything In Between)
 
 ---
 
@@ -31,7 +35,6 @@ With a specialization in scalable solutions, application development, AI integra
 
 ### 📚 My Proficiencies:
 
-*   _**Seasoned Software Architect & Polyglot Engineer | Entrepreneurial Spirit with 14+ Years in Tech | Successfully Exited Founder**_
 *   **Designing and Developing Scalable Solutions**: Specializing in SaaS models for both B2C and B2B landscapes, including enterprise-grade solutions.
 *   **Programming Languages**: Mastery in .NET, PHP 4+, Java 6,7,8+, C++, C#, Objective-C, Swift, TypeScript, JavaScript, Scala, XML, HTML5, CSS3, Python, and more (I can pick up anything easily).
 *   **Frameworks and Databases**: Proficient in Angular 5-15+, Laravel, PlayFramework, PostgreSQL, MongoDB, MySQL, Google Big Data, Oracle DB, MS SQL Server, and others.
