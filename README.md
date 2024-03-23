@@ -14,9 +14,9 @@ With a specialization in scalable solutions, application development, AI integra
 
 ### 👨‍💻 What I'm working on:
 
-*   Artificial Intelligence (From Several Providers & Creating My Own)
-*   Private Tools & Automations (Creating My Own Solutions Like Home Automation)
-*   Scalable Enterprise Solutions (Everything From Construction To Healthcare & Everything In Between)
+*   Artificial Intelligence (Several Providers & Creating My Own)
+*   Private Tools & Automations (Automating Vehicle Tunning (Self Learning), Creating My Own Solutions (Home Automation), etc..)
+*   Scalable Enterprise Solutions (Construction to Healthcare & Everything in Between)
 
 ---
 
